@@ -1,0 +1,6 @@
+[submodule "Frontend"]
+	path = Frontend
+	url = https://github.com/lvquang0403/NashTech-phase2-Assetmanagement-Frontend.git
+[submodule "Backend"]
+	path = Backend
+	url = https://github.com/lvquang0403/NashTech-phase2-Assetmanagement-Backend.git
